@@ -1,6 +1,6 @@
 package lambda.start;
 
-public class Ex0Ref {
+public class Ex0RefMain {
 
     public static void hello(String message){
         System.out.println("프로그램 시작");
